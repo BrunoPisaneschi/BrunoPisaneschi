@@ -1,7 +1,4 @@
 # Hi, there 👋
-If I look interesting, contact me by clicking on the [Linkedin icon below](#contact).
-
-------
 
 # Knowledge 🧠
 
