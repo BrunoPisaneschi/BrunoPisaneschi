@@ -1,10 +1,4 @@
 # Hi, there 👋
-I'm Bruno, 27, born in Brazil - Bauru/SP, I don't use this git how you can look (rs) because my personal projects are freelancing and I can't show the code to the world.
-
-I started learning Python in a job, developing automation scripts, and after that, I became interested more and more about what I can do with Python.
-
-Today, I'm developing APIs, have a great knowledge background listed below (some things I didn't find the icon, so didn't list), and have an interest in IA, and the DevOps universe.
-
 If I look interesting, contact me by clicking on the [Linkedin icon below](#contact).
 
 ------
